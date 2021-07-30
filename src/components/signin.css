@@ -1,0 +1,16 @@
+.left {
+    float: left;
+}
+
+.login-container {
+    width: 400px;
+}
+
+.uk-button {
+    margin-top: 20px !important;
+}
+
+#confirm_email {
+    float: left;
+    font-size: x-small;
+}

@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@awsui/components-react": "^3.0.205",
+    "@awsui/global-styles": "^1.0.8",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "amazon-cognito-identity-js": "^5.0.6",
+    "aws-amplify": "^4.2.1",
+    "aws-sdk": "^2.956.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hot-toast": "^2.0.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-use-form-state": "^0.13.2",
+    "uikit": "^3.7.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
