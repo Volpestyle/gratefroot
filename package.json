@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@awsui/components-react": "^3.0.205",
     "@awsui/global-styles": "^1.0.8",
     "@testing-library/jest-dom": "^5.11.4",
@@ -19,6 +20,15 @@
     "react-use-form-state": "^0.13.2",
     "uikit": "^3.7.1",
     "web-vitals": "^1.0.1"
+=======
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+>>>>>>> 39092641b37caee86dc286c977a03683f6c3316e
   },
   "scripts": {
     "start": "react-scripts start",

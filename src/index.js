@@ -3,7 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
 import '../node_modules/uikit/dist/css/uikit.min.css';
+=======
+>>>>>>> 39092641b37caee86dc286c977a03683f6c3316e
 
 ReactDOM.render(
   <React.StrictMode>
